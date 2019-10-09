@@ -9697,9 +9697,11 @@
       font-size: 1.5rem;
     }
   }
-  .borda{
-    border: solid red 1px;
+  .botao{
+    line-height: 16px;
+    background: blue;
   }
+
   .portfolio {
     margin-bottom: -30px;
     
